@@ -46,7 +46,7 @@ The optimized portfolio is compared against the NIFTY 50 index using:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Assumes stable covariance structure
 - Ignores transaction costs
 - Based on historical data only
